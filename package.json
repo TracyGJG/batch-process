@@ -1,0 +1,12 @@
+{
+	"name": "project-processor",
+	"version": "1.0.0",
+	"main": "process-project.js",
+	"scripts": {
+		"start": "node  ./batch-process.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Tracy-Gregory Gilmore",
+	"license": "CC-BY-1.0",
+	"description": ""
+}
